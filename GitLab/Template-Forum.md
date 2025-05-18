@@ -2,15 +2,15 @@
     -1. #how-to-use-gitlab
 
     -2. #gitlab-ci-cd
- 
+
     -3. #gitlab-duo
- 
+
     -4. #devsecops-security
- 
+
     -5. #iac-cloud-native
- 
+
     -6. #observability
- 
+
 <--------------- DO NOT COPY ABOVE THIS LINE --------------->
 
 🤗 _Please help fill in this template with all the details to help others help you more efficiently. Use [formatting blocks for code, config, logs](/t/community-first-steps-code-config-log-block-formatting-in-topics-and-replies/72138) and ensure to remove sensitive data._
