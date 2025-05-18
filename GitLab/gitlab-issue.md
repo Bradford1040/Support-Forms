@@ -1,4 +1,4 @@
-# GITLAB TICKET NUMBER #627833
+# Things I've tried:
 
 
 * Generating a new SSH key for GitLab won’t affect your GitHub setup at all. You can have multiple SSH keys, each assigned to different services.
