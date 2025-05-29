@@ -1,2 +1,2 @@
 # Support-Forms
-list of supprot forms that I come accross
+list of support forms that I come across
